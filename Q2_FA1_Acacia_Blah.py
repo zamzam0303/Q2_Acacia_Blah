@@ -16,7 +16,7 @@ def calculate(num1, num2, choice):
 
 
 # Display the menu
-print("=== Simple Calculator ===")
+print("=== Modular Calculator ===")
 print("1. Addition")
 print("2. Subtraction")
 print("3. Multiplication")
