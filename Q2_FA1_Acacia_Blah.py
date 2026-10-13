@@ -34,3 +34,5 @@ def calculator():
         print("Invalid choice. Please choose from 1 to 4.")
 
 calculator()
+
+*Reflection*
