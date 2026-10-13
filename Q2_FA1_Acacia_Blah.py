@@ -1,6 +1,3 @@
-
-
-    
 def calculate(num1, num2, choice):
     # Perform the selected operation
     if choice == 1:
@@ -37,7 +34,7 @@ result = calculate(num1, num2, choice)
 print("Result:", result)
 
 
-# SHORT REFLECTION
+# REFLECTION
 
 # 1. What functions did you create in your calculator program?
 # I created a function called calculate() that performs
